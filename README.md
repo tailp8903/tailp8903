@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tailp8903
-- 👀 I’m interested in Applied Algorithm, Machine Learning, Deep Learning, Blockchain and Mobile App Development
+- 👀 I’m interested in Applied Algorithm and Machine Learning
 - 🏫 I’m currently learning Global ICT (ITE7) at Ha Noi university of Science and Technology (HUST)
 - 💞️ I’m looking to collaborate on Algorithm Development and Machine Learning research
 
